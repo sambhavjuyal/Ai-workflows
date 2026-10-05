@@ -3,7 +3,7 @@
   "nodes": [
     {
       "parameters": {
-        "formTitle": "Your Skill Mastery Blueprint",
+        "formTitle": "Your Skill Master Blueprint",
         "formDescription": "Tell us one skill you want to conquer - tech or non-tech - and your AI mentor will email you a complete mastery roadmap.",
         "formFields": {
           "values": [
